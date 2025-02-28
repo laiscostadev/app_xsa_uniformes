@@ -1,0 +1,26 @@
+{
+  "name": "xsa-budget-app",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "react": "18.0.0",
+    "react-native": "0.68.0",
+    "react-navigation": "^4.4.4",
+    "react-navigation-stack": "^2.10.4",
+    "react-redux": "^7.2.6",
+    "redux": "^4.1.1",
+    "redux-thunk": "^2.4.0",
+    "async-storage": "^1.15.5",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "babel-preset-react-native": "^4.0.1"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios"
+  },
+  "author": "",
+  "license": "MIT"
+}
