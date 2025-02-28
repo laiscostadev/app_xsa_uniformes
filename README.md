@@ -22,4 +22,4 @@ O **XSA Budget App** é um aplicativo móvel desenvolvido para a empresa **XSA U
 ## Como Rodar o Projeto
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/laiscostadev/xsa-budget-app.git
+ [  git clone https://github.com/laiscostadev/xsa-budget-app.git](https://github.com/laiscostadev/app_xsa_uniformes/tree/main/xsa-budget-app)
